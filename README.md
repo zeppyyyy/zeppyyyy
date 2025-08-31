@@ -51,3 +51,4 @@ currently_learning: ["Kubernetes, Cloud Computing, Machine Learning"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
 </p>
 
+![Snake animation](https://github.com/zeppyyyy/zeppyyyy/blob/output/github-contribution-grid-snake.svg)
