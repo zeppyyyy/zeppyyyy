@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello Devs!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+</div>
 
 <!--
 **zeppyyyy/zeppyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
