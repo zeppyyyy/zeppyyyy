@@ -1,8 +1,10 @@
 ## Hello Everyone!
 <h2>Let's Connect!</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/john-francis-robles-425622375"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45"/></a>
-  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" /></a>
+  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" width="45" height="45"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="telegram" width="45" height="45"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="facebook" width="45" height="45"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="instagram" width="45" height="45"/></a>
 </p>
 
 <!--
