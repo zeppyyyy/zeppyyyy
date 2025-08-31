@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello Devs!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!--
 **zeppyyyy/zeppyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,5 +55,6 @@ currently_learning: ["Kubernetes, Cloud Computing, Machine Learning"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
 </p>
+
