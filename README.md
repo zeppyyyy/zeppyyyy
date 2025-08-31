@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>A Little Bit About Me and My Interests</h2>
+```yaml
+name: John Francis Robles
+located_in: Bulacan, Philippines
+education:
+  [
+    "Bachelor's in Information Technology with Specialization in Mobile and Web Application"
+  ]
+fields_of_interests:
+  [
+    "Mobile Dvelopment",
+    "Web Development",
+    "Cloud Computing",
+    "Machine Learning",
+    "UI/UX"
+  ]
+currently_learning: ["Kubernetes, Cloud Computing, Machine Learning"]
+```
