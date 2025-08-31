@@ -1,6 +1,6 @@
 ## Hello Everyone!
 <h2>Let's Connect!</h2>
-<p align="center" margin-left="10">
+<p align="center" >
   <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" width="45" height="45"/></a>
   <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="telegram" width="45" height="45"/></a>
   <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="facebook" width="45" height="45"/></a>
