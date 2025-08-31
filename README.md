@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20Everyone!&fontSize=70)
-### Let's Connect!
+<div align="center">
+  ### Let's Connect!
+</div>
 <p align="center" >
   <a href="www.linkedin.com/in/john-francis-robles-425622375"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" width="45" height="45" hspace="20"/></a>
   <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="telegram" width="45" height="45" hspace="20"/></a>
@@ -7,20 +9,6 @@
   <a href="https://www.instagram.com/francis.roblessed/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="instagram" width="45" height="45" hspace="20"/></a>
 </p>
 
-<!--
-**zeppyyyy/zeppyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## A Little Bit About Me and My Interests
 ```yaml
 name: John Francis Robles
