@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20Everyone!&fontSize=70)
-<p align="center" font-size="1rem">Let's Connect!</p>
+### Let's Connect!
 <p align="center" >
   <a href="www.linkedin.com/in/john-francis-robles-425622375"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" width="45" height="45" hspace="20"/></a>
   <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="telegram" width="45" height="45" hspace="20"/></a>
