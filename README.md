@@ -1,7 +1,7 @@
 ## Hello Everyone!
 <h2>Let's Connect!</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/john-francis-robles-425622375"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="www.linkedin.com/in/john-francis-robles-425622375"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45"/></a>
   <a href=""></a>
 </p>
 
