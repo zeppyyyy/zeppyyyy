@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?text=Hello Devs!&type=waving&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" />
+## Hello Everyone!
+<h2>Let's Connect!</h2>
+<p align="center">
+  <a href="www.linkedin.com/in/john-francis-robles-425622375"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+  <a href=""></a>
+</p>
 
 <!--
 **zeppyyyy/zeppyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
