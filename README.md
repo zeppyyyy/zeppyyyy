@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20Everyone!&fontSize=70)
 <p align="center" font-size="1rem">Let's Connect!</p>
 <p align="center" >
-  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" width="45" height="45" hspace="5"/></a>
-  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="telegram" width="45" height="45"/></a>
-  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="facebook" width="45" height="45"/></a>
-  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="instagram" width="45" height="45"/></a>
+  <a href="www.linkedin.com/in/john-francis-robles-425622375"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="linkedin" width="45" height="45" hspace="20"/></a>
+  <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="telegram" width="45" height="45" hspace="20"/></a>
+  <a href="https://www.facebook.com/johnfrancis.robles.5"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" alt="facebook" width="45" height="45" hspace="20"/></a>
+  <a href="https://www.instagram.com/francis.roblessed/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="instagram" width="45" height="45" hspace="20"/></a>
 </p>
 
 <!--
