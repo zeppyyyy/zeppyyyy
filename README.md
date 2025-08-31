@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>A Little Bit About Me and My Interests</h2>
+## A Little Bit About Me and My Interests
 ```yaml
 name: John Francis Robles
 located_in: Bulacan, Philippines
